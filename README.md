@@ -6,12 +6,3 @@ hckrmoon [바로가기](hckrmoon/README.md)
 
 
 seo [바로가기](seo/README.md)
-
-## 폐기
-
-**S**
-----
-
-- **어디까지 할 수 있을까?**
-- **프론트엔드 기술로 할 수 있는 영역의 확장**
-  - https://github.com/sindresorhus/awesome-electron
