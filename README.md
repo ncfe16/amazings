@@ -5,6 +5,8 @@
 hckrmoon [바로가기](hckrmoon/README.md)
 
 
+seo [바로가기](seo/README.md)
+
 ## 폐기
 
 **S**
